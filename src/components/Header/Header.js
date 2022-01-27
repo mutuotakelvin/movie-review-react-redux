@@ -7,8 +7,8 @@ const Header = () => {
     return (
         <div className="header">
             <Link to="/">
-            </Link>
             <div className="logo">Movie App</div>
+            </Link>
             <div className="user-image">
                 <img src={user} alt="user"/>
             </div>
