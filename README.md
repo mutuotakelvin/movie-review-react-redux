@@ -1,12 +1,28 @@
-# Getting Started with Create React App
+# Movie App
+A movie application that displays movies from imdbAPI
 
+
+## Table of contents
+* [General info](#general-info)
+* [ Technologies](#technologies)
+* [Features](#features)
+* [Setup](#setup)
+
+## Technologies
+  * React-router
+  * Redux toolkit
+  * react-slick
+
+## General info
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Features
+* Search functionality. User can search through movies.
+* Fetch movies from the imdbAPI.
 
+## Setup
 In the project directory, you can run:
-
-### `npm start`
+  `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -44,18 +60,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
 ### Advanced Configuration
 
