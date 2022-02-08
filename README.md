@@ -1,6 +1,6 @@
 # Movie App
-A movie application that displays movies from imdbAPI
-
+A movie application that displays movies from imdbAPI. [Live Demo](https://movie-app-a86fe.web.app/)
+Not secure, if you wish to see the site go to Chrome setting -->site setting -->Insecure content --> click add button of allow, then add your domain name [*.]XXXX.com
 
 ## Table of contents
 * [General info](#general-info)
